@@ -17,28 +17,38 @@ nav {
 .container {
     position: relative;
     margin: auto;
-    left: 20%;
+    left: 15%;
     width: 49%;
     height: 100%;
 }
 .hero-image {
     position: absolute;
     left: 3%;
-    width: 40%;
+    width: 30%;
     margin: 2rem 0rem;
+}
+.hero-heading {
+    position: absolute;
+    left: 3%;
+    top: 60%;
+    width: 30%;
+    margin: 2rem 0rem;
+    text-align: center;
+    font-size: 3rem;
+    color: black;
 }
 textarea {
     display: block;
     width: 100%;
-    margin: 2.5rem 0rem;
+    margin: 2rem 0rem;
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: inherit;
     overflow: scroll;
 }
 button {
     padding: 1rem;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-family: inherit;
     background-color: var(--primary-color);
     border: none;
@@ -51,9 +61,9 @@ button {
 }
 #output {
     border: 1px solid black;
-    font-size: 1.5rem;
+    font-size: 1rem;
     width: 100%;
-    height: 14vh;
+    height: 10vh;
     overflow: scroll;
     padding: 1rem;
     margin-bottom: 2rem;
@@ -69,12 +79,12 @@ footer {
 .footer-heading {
     text-align: center;
     padding-top: 1rem;
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 footer p {
     text-align: center;
     max-width: 50%;
     margin: auto;
-    font-size: 1.5rem;
+    font-size: 1.1rem;
     padding: 1rem 0rem;
 }
