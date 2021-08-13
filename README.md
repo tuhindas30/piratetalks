@@ -1,7 +1,7 @@
 # Pirate Talk
 
 <div align="center">
-    <img src="https://i.imgur.com/dSkjEJ1.gif" alt="screenshot of pirate talk"/>
+    <img src="https://i.imgur.com/9G3DZ1k.png" alt="screenshot of pirate talk"/>
 </div>
 
 ![](https://img.shields.io/website?url=https%3A%2Ftalklikepirates.netlify.app)
